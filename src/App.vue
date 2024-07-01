@@ -8,7 +8,7 @@
 			</button>
 		</nav>
 
-		<main>
+		<main class="h-full w-full flex justify-center items-center">
 			<RouterView />
 		</main>
 	</div>
